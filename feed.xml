@@ -38,5 +38,13 @@
       <description><![CDATA[<p>This is the first paragraph of NEW test article 4.</p><p>This is the second paragraph of NEW test article 4.</p>]]></description>
       <enclosure url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg" length="0" type="image/jpeg"/>
     </item>
+    <item>
+      <title>NEW test article 5</title>
+      <link>https://genxrider.com/?test=5</link>
+      <guid isPermaLink="false">genxrider-rss-test-5</guid>
+      <pubDate>Sat, 03 Oct 2026 19:58:50 +0100</pubDate>
+      <description><![CDATA[<p>This is the first paragraph of NEW test article 5.</p><p>This is the second paragraph of NEW test article 5.</p>]]></description>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg" length="0" type="image/jpeg"/>
+    </item>
   </channel>
 </rss>
