@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GenXrider RSS Test</title>
+    <link>https://github.com/robdr1-stack/rss-test</link>
+    <description>Test feed</description>
+    <language>en-gb</language>
+    <item>
+      <title>Old test article 1</title>
+      <link>https://genxrider.com/?test=1</link>
+      <guid isPermaLink="false">genxrider-rss-test-1</guid>
+      <pubDate>Thu, 01 Oct 2026 09:00:00 +0100</pubDate>
+      <description><![CDATA[<p>This is the first paragraph of Old test article 1.</p><p>This is the second paragraph of Old test article 1.</p>]]></description>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Old test article 2</title>
+      <link>https://genxrider.com/?test=2</link>
+      <guid isPermaLink="false">genxrider-rss-test-2</guid>
+      <pubDate>Thu, 01 Oct 2026 15:00:00 +0100</pubDate>
+      <description><![CDATA[<p>This is the first paragraph of Old test article 2.</p><p>This is the second paragraph of Old test article 2.</p>]]></description>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg" length="0" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Old test article 3</title>
+      <link>https://genxrider.com/?test=3</link>
+      <guid isPermaLink="false">genxrider-rss-test-3</guid>
+      <pubDate>Fri, 02 Oct 2026 09:00:00 +0100</pubDate>
+      <description><![CDATA[<p>This is the first paragraph of Old test article 3.</p><p>This is the second paragraph of Old test article 3.</p>]]></description>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg" length="0" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
